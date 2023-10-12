@@ -1,0 +1,4 @@
+numpy==1.24.0
+pandas==1.5.3
+pyahocorasick==2.0.0
+tqdm==4.64.1
